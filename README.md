@@ -23,7 +23,7 @@ To write a python program to implement multivariate linear regression and predic
 ## Program:
 ```
 /*
-Program to implement multivariate inear regression and to predict the output:
+Program to implement multivariate linear regression and to predict the output:
 Developed by: S.Sajetha
 Register number: 212223100049
 */
